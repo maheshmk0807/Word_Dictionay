@@ -1,2 +1,4 @@
-# Minor-1
- 
+# Word Dictionary
+
+JAVA
+JAVAFX
